@@ -1,0 +1,7 @@
+name: Bryan
+Medical Condition Type: 2
+pref: when -1 suggest cinema
+pref: when 51 suggest pool
+pref: when APO suggest bowling
+pref: when weather suggest restaurants
+***
